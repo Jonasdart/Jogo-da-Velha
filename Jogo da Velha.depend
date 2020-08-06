@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541942154 source:c:\users\infortec\desktop\jogo da velha jonas\jogo da velha\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1542312839 source:c:\users\pasta usuario\desktop\jogo da velha\main.c
+	<stdio.h>
+	<stdlib.h>
+
